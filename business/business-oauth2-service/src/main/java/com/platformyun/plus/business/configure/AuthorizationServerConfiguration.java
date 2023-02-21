@@ -26,13 +26,13 @@ import javax.sql.DataSource;
 @EnableAuthorizationServer
 public class AuthorizationServerConfiguration extends AuthorizationServerConfigurerAdapter {
 
-//    @Autowired
+    @Autowired
     private BCryptPasswordEncoder passwordEncoder;
 
     /**
      * 注入用于支持 password 模式
      */
-//    @Autowired
+    @Autowired
     private AuthenticationManager authenticationManager;
 
 
