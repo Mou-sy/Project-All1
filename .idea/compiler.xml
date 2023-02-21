@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="business-reg-service" />
+        <module name="provider-admin-login-log-api" />
+        <module name="provider-admin-login-log-service" />
+        <module name="commons-dto" />
+        <module name="cloud-message-dto" />
+        <module name="business-profile-service" />
+        <module name="cloud-message-service" />
+        <module name="commons-utils" />
+        <module name="business-profile-feign" />
+        <module name="commons-provider" />
+        <module name="provider-admin-api" />
+        <module name="business-reg-feign" />
+        <module name="cloud-message-feign" />
+        <module name="configuration-sentinel" />
+        <module name="gateway-service" />
+        <module name="provider-admin-service" />
+        <module name="cloud-upload-feign" />
+        <module name="configuration-feign" />
+        <module name="cloud-message-api" />
+        <module name="cloud-upload-service" />
+        <module name="business-oauth2-service" />
+        <module name="message-admin-login-log" />
+        <module name="business-oauth2-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="business" target="1.8" />
+      <module name="business-oauth2-feign" target="1.8" />
+      <module name="business-oauth2-service" target="1.8" />
+      <module name="business-profile-feign" target="1.8" />
+      <module name="business-profile-service" target="1.8" />
+      <module name="business-reg-feign" target="1.8" />
+      <module name="business-reg-service" target="1.8" />
+      <module name="cloud" target="1.8" />
+      <module name="cloud-message-api" target="1.8" />
+      <module name="cloud-message-dto" target="1.8" />
+      <module name="cloud-message-feign" target="1.8" />
+      <module name="cloud-message-service" target="1.8" />
+      <module name="cloud-upload-feign" target="1.8" />
+      <module name="cloud-upload-service" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="commons-dto" target="1.8" />
+      <module name="commons-provider" target="1.8" />
+      <module name="commons-utils" target="1.8" />
+      <module name="configuration" target="1.8" />
+      <module name="configuration-feign" target="1.8" />
+      <module name="configuration-sentinel" target="1.8" />
+      <module name="dependencies" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="message" target="1.8" />
+      <module name="message-admin-login-log" target="1.8" />
+      <module name="Project-All" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="provider-admin-api" target="1.8" />
+      <module name="provider-admin-login-log-api" target="1.8" />
+      <module name="provider-admin-login-log-service" target="1.8" />
+      <module name="provider-admin-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="business-oauth2-feign" options="-parameters" />
+      <module name="business-oauth2-service" options="-parameters" />
+      <module name="business-profile-feign" options="-parameters" />
+      <module name="business-profile-service" options="-parameters" />
+      <module name="business-reg-feign" options="-parameters" />
+      <module name="business-reg-service" options="-parameters" />
+      <module name="cloud-message-api" options="-parameters" />
+      <module name="cloud-message-dto" options="-parameters" />
+      <module name="cloud-message-feign" options="-parameters" />
+      <module name="cloud-message-service" options="-parameters" />
+      <module name="cloud-upload-feign" options="-parameters" />
+      <module name="cloud-upload-service" options="-parameters" />
+      <module name="commons-dto" options="-parameters" />
+      <module name="commons-provider" options="-parameters" />
+      <module name="commons-utils" options="-parameters" />
+      <module name="configuration-feign" options="-parameters" />
+      <module name="configuration-sentinel" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="message-admin-login-log" options="-parameters" />
+      <module name="provider-admin-api" options="-parameters" />
+      <module name="provider-admin-login-log-api" options="-parameters" />
+      <module name="provider-admin-login-log-service" options="-parameters" />
+      <module name="provider-admin-service" options="-parameters" />
+    </option>
+  </component>
+</project>

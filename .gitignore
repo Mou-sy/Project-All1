@@ -1,0 +1,22 @@
+# 项目排除路径
+/business/business-oauth2-service/target/
+/business/business-profile-feign/target/
+/business/business-profile-service/target/
+/business/business-reg-service/target/
+/cloud/cloud-message-api/target/
+/cloud/cloud-message-dto/target/
+/cloud/cloud-message-feign/target/
+/cloud/cloud-message-service/target/
+/cloud/cloud-upload-feign/target/
+/cloud/cloud-upload-service/target/
+/commons/commons-dto/target/
+/commons/commons-provider/target/
+/commons/commons-utils/target/
+/configuration/configuration-feign/target/
+/configuration/configuration-sentinel/target/
+/gateway/gateway-service/target/
+/message/message-admin-login-log/target/
+/provider/provider-admin-api/target/
+/provider/provider-admin-login-log-api/target/
+/provider/provider-admin-login-log-service/target/
+/provider/provider-admin-service/target/

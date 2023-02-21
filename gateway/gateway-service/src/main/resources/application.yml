@@ -1,0 +1,41 @@
+base:
+  config:
+    nacos:
+      hostname: 192.168.1.8
+      port: 8848
+spring:
+  application:
+    name: gateway-service
+  main:
+    allow-bean-definition-overriding: true
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+    default-property-inclusion: non_null
+  cloud:
+    nacos:
+      discovery:
+        server-addr: ${base.config.nacos.hostname}:${base.config.nacos.port}
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: BUSINESS-OAUTH2-SERVICE
+          uri: lb://business-oauth2-service
+          predicates:
+            - Path=/api/user/login**
+          filters:
+            - StripPrefix=1
+        - id: PLATFORMYUN-BUSINESS-REG
+          uri: lb://platformyun-business-reg
+          predicates:
+            - Path=/api/reg**
+          filters:
+            - StripPrefix=1
+
+server:
+  port: 8888
+logging:
+  level:
+    org.springframework.cloud.gateway: error

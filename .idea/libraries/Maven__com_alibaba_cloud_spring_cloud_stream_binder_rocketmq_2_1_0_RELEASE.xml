@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.cloud:spring-cloud-stream-binder-rocketmq:2.1.0.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/com/alibaba/cloud/spring-cloud-stream-binder-rocketmq/2.1.0.RELEASE/spring-cloud-stream-binder-rocketmq-2.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/com/alibaba/cloud/spring-cloud-stream-binder-rocketmq/2.1.0.RELEASE/spring-cloud-stream-binder-rocketmq-2.1.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/com/alibaba/cloud/spring-cloud-stream-binder-rocketmq/2.1.0.RELEASE/spring-cloud-stream-binder-rocketmq-2.1.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

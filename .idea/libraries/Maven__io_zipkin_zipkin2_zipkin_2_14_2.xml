@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.zipkin.zipkin2:zipkin:2.14.2">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/io/zipkin/zipkin2/zipkin/2.14.2/zipkin-2.14.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/io/zipkin/zipkin2/zipkin/2.14.2/zipkin-2.14.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/io/zipkin/zipkin2/zipkin/2.14.2/zipkin-2.14.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

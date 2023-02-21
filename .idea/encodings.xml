@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/apache-maven-3.6.3-bin/apache-maven-3.6.3/resp/org/springframework/boot/spring-boot-starter-parent/2.1.9.RELEASE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/business-oauth2-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/business-oauth2-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/business-profile-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/business-profile-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/business-reg-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/business-reg-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/cloud-message-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/cloud-message-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/cloud-message-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/cloud-message-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/cloud-upload-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/cloud-upload-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/commons-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/commons-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/commons-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configuration/configuration-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configuration/configuration-sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message/message-admin-login-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/provider-admin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/provider-admin-login-log-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/provider-admin-login-log-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/provider-admin-login-log-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/provider-admin-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
